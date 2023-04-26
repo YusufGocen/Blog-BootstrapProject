@@ -1,0 +1,14 @@
+.navbar{
+    background-color: #004d66;
+}
+.form{
+    background-color: #004d66;
+}
+#map{
+    height: 400px;
+}
+@media (min-widht:768px){
+    #map{
+        height: 100%;
+    }
+}
